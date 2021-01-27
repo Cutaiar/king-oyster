@@ -1,9 +1,3 @@
-# A-Frame Project
+# King Oyster
 
-**[Subscribe to the A-Frame newsletter!](https://aframe.io/subscribe/)**
-
-Built with [A-Frame](https://aframe.io), a web framework for building virtual reality experiences.
-
-Make WebVR with HTML and Entity-Component. Works on Vive, Rift, Quest, desktop, mobile platforms.
-
-Click and drag on desktop. Open it on a smartphone and use the device motion sensors. Or [plug in a VR headset](https://aframe.io/docs/0.8.0/introduction/vr-headsets-and-webvr-browsers.html)!
+You have a cutting board and a knife. Knife in hand from hand tracking or controller, makes chopping noise when touching the board (informed by velocity), and you have king oyster mushrooms on the left. Your only objective is to chop them and them in the beautiful bowl to your right. Chop faster and with more accuracy to buy new bowl patterns, bigger and better bowls, sharper knives with different clink noises and styles and flips. Unlock some outrageous items like extralong hotdog, dildo, tuna fish, baseball bat, slegehammer, etc.
