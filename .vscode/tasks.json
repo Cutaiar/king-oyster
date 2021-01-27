@@ -1,0 +1,29 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Start",
+      "type": "shell",
+      "command": "npm start",
+      "problemMatcher": ["$eslint-stylish"],
+      "presentation": {
+        "group": "start-app"
+      }
+    },
+    {
+      "label": "Ngrok",
+      "type": "shell",
+      "command": "npm run ngrok",
+      "problemMatcher": ["$eslint-stylish"],
+      "presentation": {
+        "group": "start-app"
+      }
+    },
+    {
+      "label": "Start App",
+      "dependsOrder": "parallel",
+      "dependsOn": ["Start", "Ngrok"],
+      "problemMatcher": ["$eslint-stylish"]
+    }
+  ]
+}
